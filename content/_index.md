@@ -14,7 +14,7 @@ sections:
       text: |
         <br>
         
-        **RobotPi** has been a center of excellence for robotics manpulation research, teaching, and practice since its founding in 2021
+        **RobotPI** has been a center of excellence for robotics manpulation research, teaching, and practice since its founding in 2021
   
   - block: collection
     content:
@@ -34,7 +34,7 @@ sections:
       page_type: post
     design:
       view: card
-      columns: '1'
+      columns: '2'
   
   - block: markdown
     content:
