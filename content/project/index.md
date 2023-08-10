@@ -1,7 +1,6 @@
 ---
 title: Projects
 date: 2023-05-22T22:08:51.424Z
-type: landing
 
 summary: We propose an anytime algorithm to plan the placement of a rigid object
   with a dual-arm robot in a cluttered environment. The algorithm integrates
