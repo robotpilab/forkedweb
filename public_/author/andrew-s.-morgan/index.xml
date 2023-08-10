@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andrew S. Morgan | RobotPI Group</title>
+    <link>https://vector-wangel.github.io/wowchemy_website/author/andrew-s.-morgan/</link>
+      <atom:link href="https://vector-wangel.github.io/wowchemy_website/author/andrew-s.-morgan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Andrew S. Morgan</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 04 Mar 2022 01:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vector-wangel.github.io/wowchemy_website/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Andrew S. Morgan</title>
+      <link>https://vector-wangel.github.io/wowchemy_website/author/andrew-s.-morgan/</link>
+    </image>
+    
+    <item>
+      <title>Complex In-Hand Manipulation via Compliance-Enabled Finger Gaiting and Multi-Modal Planning</title>
+      <link>https://vector-wangel.github.io/wowchemy_website/publication/journal-article/</link>
+      <pubDate>Fri, 04 Mar 2022 01:00:00 +0000</pubDate>
+      <guid>https://vector-wangel.github.io/wowchemy_website/publication/journal-article/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Energy Gradient-Based Graphs for Planning Within-Hand Caging Manipulation</title>
+      <link>https://vector-wangel.github.io/wowchemy_website/publication/energy-gradient-based-graphs-for-planning-within-hand-caging-manipulation/</link>
+      <pubDate>Sun, 30 Jun 2019 18:34:00 +0000</pubDate>
+      <guid>https://vector-wangel.github.io/wowchemy_website/publication/energy-gradient-based-graphs-for-planning-within-hand-caging-manipulation/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pre-Grasp Sliding Manipulation of Thin Objects Using Soft, Compliant, or Underactuated Hands</title>
+      <link>https://vector-wangel.github.io/wowchemy_website/publication/pre-grasp-sliding-manipulation-of-thin-objects-using-soft-compliant-or-underactuated-hands/</link>
+      <pubDate>Sat, 29 Jun 2019 03:27:00 +0000</pubDate>
+      <guid>https://vector-wangel.github.io/wowchemy_website/publication/pre-grasp-sliding-manipulation-of-thin-objects-using-soft-compliant-or-underactuated-hands/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Data-Driven Framework for Learning Dexterous Manipulation of Unknown Objects</title>
+      <link>https://vector-wangel.github.io/wowchemy_website/publication/a-data-driven-framework-for-learning-dexterous-manipulation-of-unknown-objects/</link>
+      <pubDate>Fri, 28 Jun 2019 22:41:00 +0000</pubDate>
+      <guid>https://vector-wangel.github.io/wowchemy_website/publication/a-data-driven-framework-for-learning-dexterous-manipulation-of-unknown-objects/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

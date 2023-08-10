@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kejia Ren | RobotPI Group</title>
+    <link>https://vector-wangel.github.io/wowchemy_website/author/kejia-ren/</link>
+      <atom:link href="https://vector-wangel.github.io/wowchemy_website/author/kejia-ren/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kejia Ren</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 28 Jun 2023 17:55:21 +0000</lastBuildDate>
+    <image>
+      <url>https://vector-wangel.github.io/wowchemy_website/author/kejia-ren/avatar_hu0cd1ea83568d2dc5b9562d02b6bbed6b_53716_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Kejia Ren</title>
+      <link>https://vector-wangel.github.io/wowchemy_website/author/kejia-ren/</link>
+    </image>
+    
+    <item>
+      <title>Kinodynamic Rapidly-exploring Random Forest for Rearrangement-Based Nonprehensile Manipulation</title>
+      <link>https://vector-wangel.github.io/wowchemy_website/publication/kinodynamic-rapidly-exploring-random-forest-for-rearrangement-based-nonprehensile-manipulation/</link>
+      <pubDate>Wed, 28 Jun 2023 17:55:21 +0000</pubDate>
+      <guid>https://vector-wangel.github.io/wowchemy_website/publication/kinodynamic-rapidly-exploring-random-forest-for-rearrangement-based-nonprehensile-manipulation/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://arxiv.org/abs/2302.04360&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Rearrangement-Based Manipulation via Kinodynamic Planning and Dynamic Planning Horizons</title>
+      <link>https://vector-wangel.github.io/wowchemy_website/publication/conference-paper/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://vector-wangel.github.io/wowchemy_website/publication/conference-paper/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button to import publication metadata.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://arxiv.org/abs/2208.02312&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

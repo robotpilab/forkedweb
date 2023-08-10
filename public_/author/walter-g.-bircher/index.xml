@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Walter G. Bircher | RobotPI Group</title>
+    <link>https://vector-wangel.github.io/wowchemy_website/author/walter-g.-bircher/</link>
+      <atom:link href="https://vector-wangel.github.io/wowchemy_website/author/walter-g.-bircher/index.xml" rel="self" type="application/rss+xml" />
+    <description>Walter G. Bircher</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 30 Jun 2019 18:34:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vector-wangel.github.io/wowchemy_website/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Walter G. Bircher</title>
+      <link>https://vector-wangel.github.io/wowchemy_website/author/walter-g.-bircher/</link>
+    </image>
+    
+    <item>
+      <title>Energy Gradient-Based Graphs for Planning Within-Hand Caging Manipulation</title>
+      <link>https://vector-wangel.github.io/wowchemy_website/publication/energy-gradient-based-graphs-for-planning-within-hand-caging-manipulation/</link>
+      <pubDate>Sun, 30 Jun 2019 18:34:00 +0000</pubDate>
+      <guid>https://vector-wangel.github.io/wowchemy_website/publication/energy-gradient-based-graphs-for-planning-within-hand-caging-manipulation/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Data-Driven Framework for Learning Dexterous Manipulation of Unknown Objects</title>
+      <link>https://vector-wangel.github.io/wowchemy_website/publication/a-data-driven-framework-for-learning-dexterous-manipulation-of-unknown-objects/</link>
+      <pubDate>Fri, 28 Jun 2019 22:41:00 +0000</pubDate>
+      <guid>https://vector-wangel.github.io/wowchemy_website/publication/a-data-driven-framework-for-learning-dexterous-manipulation-of-unknown-objects/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
