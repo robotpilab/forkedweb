@@ -1,5 +1,6 @@
 ---
-title: Latest News
+title: |
+        <span style="font-family: 'Century Gothic';">Latest News</span>
 
 # Listing view
 view: compact
