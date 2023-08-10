@@ -15,25 +15,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-sections:
-	
-  - block: collection
-    content:
-      title: |
-        <span style="font-family: 'Century Gothic';">Latest News</span>
-      subtitle:
-      text:
-      count: 5
-      filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
-      offset: 0
-      order: desc
-      page_type: Projects
-    design:
-      view: card
-      columns: '2'
+
 ---
