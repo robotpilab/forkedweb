@@ -2,6 +2,7 @@
 title: Projects
 date: 2023-05-22T22:08:51.424Z
 summary: a77
+view: compact
 draft: false
 featured: false
 image:
