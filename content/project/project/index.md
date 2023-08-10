@@ -15,7 +15,7 @@ sections:
       filters:
         # The folders to display content from
         folders:
-          - event
+          - project
         author: ""
         category: ""
         tag: ""
@@ -34,5 +34,5 @@ sections:
       # Choose a listing view
       view: compact
       # Choose single or dual column layout
-      columns: '2'
+      columns: '1'
 ---

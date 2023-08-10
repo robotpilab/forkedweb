@@ -8,13 +8,13 @@ sections:
   - block: hero
     content:
       title: |
-        <span style="font-family: 'Century Gothic';">RobotPI Group</span>
+        <span style="font-family: 'Century Gothic';">Rice RobotΠ Lab</span>
       image:
         filename: both.jpg
       text: |
         <br>
         
-        **RobotPI** has been a center of excellence for robotics manpulation research, teaching, and practice since its founding in 2021
+        where robots Physically Interact with the world.
   
   - block: collection
     content:
