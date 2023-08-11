@@ -2,12 +2,12 @@
 abstract: ''
 slides: null
 url_pdf: ""
-summary:  Major challenges include the difficulty of obtaining the geometric and dynamical models of the hand, object, and time-varying contacts. 
-title: 'Interactive perception'
+summary:  This paper describes the development of BACH (Belt–Augmented Compliant Hand), a compliant robotic hand equipped with active surfaces. The hand can securely grasp an object using power grasp and simultaneously manipulate the grasped object.
+title: 'Active surface-based robot hand'
 location: 
 all_day: false
 featured: false
-authors: [howard-qian]
+authors: [hayden-webb]
 url_video: ""
 url_slides: ""
 address:
