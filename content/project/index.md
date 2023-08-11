@@ -4,7 +4,7 @@ type: landing
 
 sections:
   - block: collection
-    id: posts
+    id: projects
     content:
       title: Projects
       subtitle: ''
