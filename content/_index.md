@@ -14,7 +14,7 @@ sections:
       text: |
         <br>
         
-        where robots Physically Interact with the world.
+        where robots Physically Interact with the world
   
   - block: collection
     content:
