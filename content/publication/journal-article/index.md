@@ -46,7 +46,7 @@ url_source: ""
 url_video: ""
 author_notes: []
 doi: ""
-publication: Science Robotics, 2021
+publication: IEEE Robotics and Automation Letters, 2022
 projects: []
 date: 2021-03-04T01:00:00.000Z
 url_slides: ""
