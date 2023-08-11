@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        <span style="font-family: 'Century Gothic';">Rice RobotΠ Lab</span>
+        <span style="font-family: 'Century Gothic';">Rice Robot$\Pi$ Lab</span>
       image:
         filename: both.jpg
       text: |
