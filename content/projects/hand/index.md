@@ -2,7 +2,7 @@
 abstract: ''
 slides: null
 url_pdf: ""
-summary:  This paper describes the development of BACH (Belt–Augmented Compliant Hand), a compliant robotic hand equipped with active surfaces. The hand can securely grasp an object using power grasp and simultaneously manipulate the grasped object.
+summary:  This paper describes the development of BACH (Belt–Augmented Compliant Hand), a compliant robotic hand equipped with active surfaces. 
 title: 'Active surface-based robot hand'
 location: 
 all_day: false
