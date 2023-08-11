@@ -1,6 +1,7 @@
 ---
 title: Manipulation for self-Identification, and self-Identification for better
   manipulation
+subtitle: Top 5 Editor's Picks of 2021
 publication_types:
   - "2"
 authors:
@@ -8,7 +9,7 @@ authors:
   - Walter G. Bircher
   - Andrew S. Morgan
   - Aaron M. Dollar
-publication_short: RAL
+publication_short: Science Robotics
 abstract: The process of modeling a series of hand-object parameters is crucial
   for precise and controllable robotic in-hand manipulation because it enables
   the mapping from the hand’s actuation input to the object’s motion to be
@@ -31,14 +32,9 @@ abstract: The process of modeling a series of hand-object parameters is crucial
   effectiveness of the VLR in precise in-hand manipulation control.
 draft: false
 featured: false
-tags:
-  - Source Themes
+projects: []
 slides: null
 url_pdf: https://hangkaiyu.github.io/self-identification.html
-image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)"
-  focal_point: ""
-  preview_only: false
 summary: The process of modeling a series of hand-object parameters is crucial
   for precise and controllable robotic in-hand manipulation because it enables
   the mapping from the hand’s actuation input to the object’s motion to be
@@ -66,8 +62,13 @@ url_video: ""
 author_notes: []
 doi: ""
 publication: Science Robotics, 2021
-projects: []
-date: 2023-08-11T18:51:24.401Z
+tags:
+  - Source Themes
+image:
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)"
+  focal_point: ""
+  preview_only: false
+date: 2021-05-11T18:51:00.000Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
