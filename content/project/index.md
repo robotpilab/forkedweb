@@ -15,7 +15,7 @@ sections:
       filters:
         # The folders to display content from
         folders:
-          - event
+          - projects
         author: ""
         category: ""
         tag: ""
