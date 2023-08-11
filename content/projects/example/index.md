@@ -2,12 +2,12 @@
 abstract: ''
 slides: null
 url_pdf: ""
-summary:  
+summary:  Nonprehensile manipulation through precise pushing is an essential skill that has been commonly challenged by perception and physical uncertainties, such as those associated with contacts, object geometries and physical properties. For this, we propose a unified framework that jointly addresses system modeling, action generation, and control.
 title: 'Nonprehensile Manipulation'
 location: 
 all_day: false
 featured: false
-authors: [gaotian-wang]
+authors: [admin]
 url_video: ""
 url_slides: ""
 address:
