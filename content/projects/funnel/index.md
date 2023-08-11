@@ -2,7 +2,7 @@
 abstract: ''
 slides: null
 url_pdf: ""
-summary:  This paper describes the development of BACH (Belt–Augmented Compliant Hand), a compliant robotic hand equipped with active surfaces. The hand can securely grasp an object using power grasp and simultaneously manipulate the grasped object.
+summary:  
 title: 'Exploring Robust Robot Manipulation through Compliance-Based and Motion-based Manipulation Funnels'
 location: 
 all_day: false
