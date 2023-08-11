@@ -2,12 +2,12 @@
 abstract: ''
 slides: null
 url_pdf: ""
-summary:  Nonprehensile manipulation through precise pushing is an essential skill that has been commonly challenged by perception and physical uncertainties.
-title: 'Nonprehensile Manipulation'
+summary:  This paper describes the development of BACH (Belt–Augmented Compliant Hand), a compliant robotic hand equipped with active surfaces. The hand can securely grasp an object using power grasp and simultaneously manipulate the grasped object.
+title: 'Manipulation funnels'
 location: 
 all_day: false
 featured: false
-authors: [kejia-ren,admin]
+authors: [admin]
 url_video: ""
 url_slides: ""
 address:

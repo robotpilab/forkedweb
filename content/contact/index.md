@@ -22,8 +22,7 @@ sections:
         longitude: '-95.3986'
       directions: Enter Building 1 and take the left to Office 200 on Ground Floor
       office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+        - 'Monday to Friday 9:00 to 18:00'
       appointment_url: 'https://calendly.com'
       #contact_links:
       #  - icon: comments
