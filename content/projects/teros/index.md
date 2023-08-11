@@ -2,7 +2,7 @@
 abstract: ''
 slides: null
 url_pdf: ""
-summary: UNO
+summary:  
 title: 'Robot Self-Identification'
 location: 
 all_day: false

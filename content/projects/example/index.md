@@ -2,13 +2,12 @@
 abstract: ''
 slides: null
 url_pdf: ""
-summary: UNO
+summary:  
 title: 'Nonprehensile Manipulation'
 location: 
 all_day: false
-event: " IEEE-RAS ICRA 2023"
 featured: false
-authors: []
+authors: [gaotian-wang]
 url_video: ""
 url_slides: ""
 address:
