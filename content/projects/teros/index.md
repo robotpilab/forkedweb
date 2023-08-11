@@ -7,7 +7,7 @@ title: 'Robot Self-Identification'
 location: 
 all_day: false
 featured: false
-authors: []
+authors: [kejia-ren, podshara-chanrungmaneekul]
 url_video: ""
 url_slides: ""
 address:
