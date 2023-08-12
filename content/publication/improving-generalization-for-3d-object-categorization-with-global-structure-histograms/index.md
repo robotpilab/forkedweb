@@ -38,8 +38,8 @@ date: 2012-06-30T19:06:00.000Z
 url_slides: ""
 tags: []
 links:
-  - name: Arxiv
-    url: https://arxiv.org/abs/2302.04360
+  - name: PDF
+    url: https://hangkaiyu.github.io/pdfs/madry2012IROS.pdf
 publishDate: 2017-01-01T00:00:00.000Z
 ---
 

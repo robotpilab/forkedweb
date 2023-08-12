@@ -39,8 +39,8 @@ date: 2018-06-30T18:52:00.000Z
 url_slides: ""
 tags: []
 links:
-  - name: Arxiv
-    url: https://arxiv.org/abs/2302.04360
+  - name: PDF
+    url: https://hangkaiyu.github.io/pdfs/song2018a.pdf
 publishDate: 2017-01-01T00:00:00.000Z
 ---
 
