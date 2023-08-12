@@ -21,7 +21,7 @@ abstract: "Robot manipulation in cluttered environments often requires complex
   framework can significantly improve planning efficiency, robustness against
   physical uncertainties, and task success rate under limited time budgets."
 slides: null
-url_pdf: https://arxiv.org/pdf/2302.04360.pdf
+url_pdf: https://arxiv.org/abs/2208.02312
 publication_types:
   - "1"
 authors:
@@ -40,14 +40,12 @@ summary: This paper presents a planning framework for robot manipulation in
   against physical uncertainties, and task success rate under limited time
   budgets.
 url_project: ""
-url_video: https://youtu.be/xf6N-a95YKQ
+url_video: https://youtu.be/8xgkMSeqCts
 publication: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
 featured: true
 date: 2022-07-01T00:00:00.000Z
 url_slides: ""
 links:
-  - name: Arxiv
-    url: https://arxiv.org/abs/2302.04360
 image:
   caption: ""
   focal_point: ""

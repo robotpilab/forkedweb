@@ -27,7 +27,7 @@ abstract: We address the problem of developing precise, quasi-static control
   that this energy modeling approach is robust to inaccuracies in parameter
   estimation. We demonstrate its efficacy in a handwriting task.
 slides: null
-url_pdf: https://arxiv.org/pdf/2302.04360.pdf
+url_pdf: https://hangkaiyu.github.io/pdfs/morgan2019a.pdf
 publication_types:
   - "1"
 authors:
@@ -50,14 +50,12 @@ summary: The paper presents a method for developing precise, quasi-static
   is tested physically on an adapted Yale Openhand Model O and demonstrated to
   be robust to inaccuracies in parameter estimation.
 url_project: ""
-url_video: https://youtu.be/xf6N-a95YKQ
+url_video: 
 publication: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
 featured: true
 date: 2019-06-28T22:41:00.000Z
 url_slides: ""
 links:
-  - name: Arxiv
-    url: https://arxiv.org/abs/2302.04360
 image:
   caption: ""
   focal_point: ""

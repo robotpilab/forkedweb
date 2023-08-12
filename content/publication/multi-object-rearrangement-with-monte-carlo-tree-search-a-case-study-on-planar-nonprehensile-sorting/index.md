@@ -10,7 +10,7 @@ abstract: In this work, we address a planar non-prehensile sorting task. Here, a
   capable of reliably sorting large numbers of convex and non-convex objects, as
   well as convex objects in the presence of immovable obstacles.
 slides: null
-url_pdf: https://arxiv.org/pdf/2302.04360.pdf
+url_pdf: https://hangkaiyu.github.io/pdfs/song2020a.pdf
 publication_types:
   - "1"
 authors:
@@ -34,14 +34,12 @@ summary: The article proposes using Monte Carlo tree search with a task-specific
   including convex and non-convex objects and convex objects in the presence of
   immovable obstacles.
 url_project: ""
-url_video: https://youtu.be/xf6N-a95YKQ
+url_video: 
 publication: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
 featured: true
 date: 2020-06-28T21:32:00.000Z
 url_slides: ""
 links:
-  - name: Arxiv
-    url: https://arxiv.org/abs/2302.04360
 image:
   caption: ""
   focal_point: ""
