@@ -1,6 +1,6 @@
 ---
-title: 'Workshop on **"Compliant Robot Manipulation: Challenges and New
-  Opportunities"** in IEEE-RAS ICRA 2023'
+title: 'Workshop on "Compliant Robot Manipulation: Challenges and New
+  Opportunities" in IEEE-RAS ICRA 2023'
 date: 2022-12-22T23:11:32.678Z
 image:
   focal_point: top
