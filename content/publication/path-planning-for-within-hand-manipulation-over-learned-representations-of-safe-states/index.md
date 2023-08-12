@@ -19,7 +19,7 @@ abstract: This work proposes a framework for tracking a desired path of an
   minimizing the proposed cost function, thereby producing object paths for
   within-hand manipulation that closely match the target ones.
 slides: null
-url_pdf: https://arxiv.org/pdf/2302.04360.pdf
+url_pdf: https://hangkaiyu.github.io/pdfs/calli2018.pdf
 title: Path Planning for Within-Hand Manipulation over Learned Representations
   of Safe States
 publication_types:
@@ -41,15 +41,13 @@ image:
   filename: featured.png
 summary: ""
 url_project: ""
-url_video: https://youtu.be/xf6N-a95YKQ
+url_video: 
 publication: International Symposium on Experimental Robotics (ISER)
 featured: true
 tags: []
 date: 2018-06-30T18:36:00.000Z
 url_slides: ""
 links:
-  - name: Arxiv
-    url: https://arxiv.org/abs/2302.04360
 publishDate: 2017-01-01T00:00:00.000Z
 ---
 

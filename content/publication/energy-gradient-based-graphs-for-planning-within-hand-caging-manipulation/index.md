@@ -18,7 +18,7 @@ abstract: In this work, we present a within-hand manipulation approach that
   our ability to successfully plan and execute trajectories within the gripper's
   workspace.
 slides: null
-url_pdf: https://arxiv.org/pdf/2302.04360.pdf
+url_pdf: https://hangkaiyu.github.io/pdfs/bircher2019a.pdf
 title: Energy Gradient-Based Graphs for Planning Within-Hand Caging Manipulation
 publication_types:
   - "1"
@@ -38,15 +38,14 @@ image:
   filename: featured.png
 summary: ""
 url_project: ""
-url_video: https://youtu.be/xf6N-a95YKQ
+url_video: 
 publication: IEEE-RAS International Conference on Robotics and Automation (ICRA)
 featured: true
 tags: []
 date: 2019-06-30T18:34:00.000Z
 url_slides: ""
 links:
-  - name: Arxiv
-    url: https://arxiv.org/abs/2302.04360
+
 publishDate: 2017-01-01T00:00:00.000Z
 ---
 

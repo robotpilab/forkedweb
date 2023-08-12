@@ -30,7 +30,7 @@ abstract: Moving a human body or a large and bulky object may require the
   achieved, and we demonstrate that the policy can be directly transferred to a
   real-world setting.
 draft: false
-url_pdf: https://arxiv.org/abs/2302.03793
+url_pdf: https://hangkaiyu.github.io/pdfs/yuan2019a.pdf
 featured: false
 image:
   filename: featured
@@ -53,6 +53,6 @@ summary: Moving a human body or a large and bulky object may require the
   qualitative experiments show the subsequent transporting after holding is
   achieved, and we demonstrate that the policy can be directly transferred to a
   real-world setting.
-url_video: https://youtu.be/_ykvsRAXRT0
+url_video: 
 date: 2019-08-12T21:17:00.000Z
 ---
