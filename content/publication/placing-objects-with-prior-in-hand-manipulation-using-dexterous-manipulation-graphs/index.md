@@ -14,7 +14,7 @@ abstract: Person re-identification is a critical security task for recognizing a
   BIWI dataset are preliminary but encouraging. Further evaluation and
   demonstration of the system will be available on our website.
 slides: null
-url_pdf: https://arxiv.org/pdf/2302.04360.pdf
+url_pdf: https://hangkaiyu.github.io/pdfs/haustein2019b.pdf
 title: Placing Objects with prior In-Hand Manipulation using Dexterous
   Manipulation Graphs
 publication_types:
@@ -35,15 +35,13 @@ image:
   filename: featured.png
 summary: ""
 url_project: ""
-url_video: https://youtu.be/xf6N-a95YKQ
+url_video: 
 publication: IEEE-RAS International Conference on Humanoids Robots (Humanoids)
 featured: true
 tags: []
 date: 2019-06-29T03:25:00.000Z
 url_slides: ""
 links:
-  - name: Arxiv
-    url: https://arxiv.org/abs/2302.04360
 publishDate: 2017-01-01T00:00:00.000Z
 ---
 

@@ -13,7 +13,7 @@ abstract: We address the problem of planning the placement of a rigid object
   placement objectives and observe its effectiveness even in challenging
   scenarios.
 slides: null
-url_pdf: https://arxiv.org/pdf/2302.04360.pdf
+url_pdf: https://hangkaiyu.github.io/pdfs/haustein2019a.pdf
 publication_types:
   - "1"
 authors:
@@ -34,14 +34,12 @@ summary: We propose an anytime algorithm to plan the placement of a rigid object
   Our approach is effective for two different placement objectives, even in
   challenging scenarios.
 url_project: ""
-url_video: https://youtu.be/xf6N-a95YKQ
+url_video: 
 publication: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
 featured: true
 date: 2019-06-28T22:44:00.000Z
 url_slides: ""
 links:
-  - name: Arxiv
-    url: https://arxiv.org/abs/2302.04360
 image:
   caption: ""
   focal_point: ""
