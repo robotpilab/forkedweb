@@ -22,7 +22,7 @@ sections:
         <span style="font-family: 'Century Gothic';">Latest News</span>
       subtitle:
       text:
-      count: 5
+      count: 4
       filters:
         author: ''
         category: ''
