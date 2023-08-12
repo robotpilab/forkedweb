@@ -33,7 +33,7 @@ draft: false
 featured: false
 projects: []
 slides: null
-url_pdf: https://hangkaiyu.github.io/self-identification.html
+url_pdf: https://hangkaiyu.github.io/pdfs/morgan2020a.pdf
 summary: "In this work, we propose a pick-and-place benchmark to assess the
   manipulation capabilities of a robotic system. The benchmark is based on the
   Box and Blocks Test (BBT), a task that has been utilized for decades by the

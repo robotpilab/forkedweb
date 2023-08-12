@@ -32,7 +32,7 @@ draft: false
 featured: false
 projects: []
 slides: null
-url_pdf: https://hangkaiyu.github.io/self-identification.html
+url_pdf: https://hangkaiyu.github.io/pdfs/zheng2020a.pdf
 summary: '"The support function of a surface" is a fundamental concept in
   mathematics and a crucial operation for algorithms in robotics, such as those
   for collision detection and grasp planning. It is possible to calculate the

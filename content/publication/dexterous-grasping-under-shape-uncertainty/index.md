@@ -25,7 +25,7 @@ draft: false
 featured: false
 projects: []
 slides: null
-url_pdf: https://hangkaiyu.github.io/self-identification.html
+url_pdf: https://hangkaiyu.github.io/pdfs/miao2015a.pdf
 summary: An important challenge in robotics is achieving robust performance in
   object grasping and manipulation while dealing with noise and uncertainty.
   This paper presents an approach for addressing the performance of dexterous

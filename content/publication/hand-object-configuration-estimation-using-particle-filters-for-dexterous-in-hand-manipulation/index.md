@@ -39,7 +39,7 @@ draft: false
 featured: false
 projects: []
 slides: null
-url_pdf: https://hangkaiyu.github.io/self-identification.html
+url_pdf: https://hangkaiyu.github.io/pdfs/hang2019c.pdf
 summary: We consider the problem of dexterous manipulation with a focus on
   unknown or uncertain hand-object parameters, such as hand configuration,
   object pose within the hand, and contact positions. In this work, we formulate

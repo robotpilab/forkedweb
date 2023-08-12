@@ -31,7 +31,7 @@ draft: false
 featured: false
 projects: []
 slides: null
-url_pdf: https://hangkaiyu.github.io/self-identification.html
+url_pdf: https://hangkaiyu.github.io/pdfs/morgan2020b.pdf
 summary: We address the problem of controlling a partially constrained
   trajectory of the manipulation frame - an arbitrary frame of reference rigidly
   attached to the object - as the desired motion about this frame is often
@@ -56,8 +56,7 @@ url_project: ""
 url_source: ""
 url_video: ""
 author_notes: []
-doi: IEEE Robotics and Automation Letters, 2020
-publication: RAL
+publication: IEEE Robotics and Automation Letters, 2020
 tags:
   - Source Themes
 image:

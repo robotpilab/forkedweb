@@ -29,7 +29,7 @@ draft: false
 featured: false
 projects: []
 slides: null
-url_pdf: https://hangkaiyu.github.io/self-identification.html
+url_pdf: https://hangkaiyu.github.io/pdfs/hang2016b.pdf
 summary: We present a unified framework for grasp planning and in-hand grasp
   adaptation using visual, tactile, and proprioceptive feedback. The main
   objective of the proposed framework is to enable fingertip grasping by
@@ -44,7 +44,7 @@ summary: We present a unified framework for grasp planning and in-hand grasp
 url_dataset: ""
 url_project: ""
 url_source: ""
-url_video: ""
+url_video: "https://hangkaiyu.github.io/videos/TRO_2015_submission.mp4"
 author_notes: []
 doi: ""
 publication: IEEE Transactions on Robotics

@@ -42,7 +42,7 @@ draft: false
 featured: false
 projects: []
 slides: null
-url_pdf: https://hangkaiyu.github.io/self-identification.html
+url_pdf: https://hangkaiyu.github.io/pdfs/bekiroglu2019a.pdf
 summary: "Numerous grasp planning algorithms have been proposed since the 1980s.
   The grasping literature has expanded rapidly in recent years, building on
   greatly improved vision systems and computing power. Methods have been

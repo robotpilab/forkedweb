@@ -39,7 +39,7 @@ draft: false
 featured: false
 projects: []
 slides: null
-url_pdf: https://hangkaiyu.github.io/self-identification.html
+url_pdf: https://hangkaiyu.github.io/pdfs/yuan2019b.pdf
 summary: Nonprehensile rearrangement is the problem of controlling a robot to
   interact with objects through pushing actions in order to reconfigure the
   objects into a predefined goal pose. In this work, we rearrange one object at

@@ -26,7 +26,7 @@ draft: false
 featured: false
 projects: []
 slides: null
-url_pdf: https://hangkaiyu.github.io/self-identification.html
+url_pdf: https://hangkaiyu.github.io/pdfs/cruciani2020a.pdf
 summary: The purpose of this benchmark is to evaluate the planning and control
   aspects of robotic in-hand manipulation systems. The goal is to assess the
   system's ability to change the position of a handheld object using the
