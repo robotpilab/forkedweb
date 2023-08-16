@@ -5,6 +5,7 @@ url_pdf: ""
 summary:  This paper describes the development of BACH (Belt–Augmented Compliant Hand), a compliant robotic hand equipped with active surfaces. 
 title: 'Active surface-based robot hand'
 location: 
+date: 2021-10-22
 all_day: false
 featured: false
 authors: [hayden-webb]
