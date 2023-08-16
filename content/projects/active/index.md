@@ -3,7 +3,7 @@ abstract: ''
 slides: null
 url_pdf: ""
 summary:  Major challenges include the difficulty of obtaining the geometric and dynamical models of the hand, object, and time-varying contacts. 
-title: 'Interactive perception'
+title: 'Bnteractive perception'
 location: 
 all_day: false
 featured: false
