@@ -5,6 +5,7 @@ url_pdf: ""
 summary:  
 title: 'Exploring Robust Robot Manipulation through Compliance-Based and Motion-based Manipulation Funnels'
 location: 
+date: 2021-10-24
 all_day: false
 featured: false
 authors: [admin]
