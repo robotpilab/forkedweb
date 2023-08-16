@@ -6,6 +6,7 @@ summary:  Major challenges include the difficulty of obtaining the geometric and
 title: 'Bnteractive perception'
 location: 
 all_day: false
+date: 2022-10-23
 featured: false
 authors: [howard-qian]
 url_video: ""
