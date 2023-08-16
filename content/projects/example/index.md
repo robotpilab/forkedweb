@@ -5,6 +5,7 @@ url_pdf: ""
 summary:  Nonprehensile manipulation through precise pushing is an essential skill that has been commonly challenged by perception and physical uncertainties.
 title: 'Nonprehensile Manipulation'
 location: 
+date: 2022-10-24
 all_day: false
 featured: false
 authors: [kejia-ren,admin]
