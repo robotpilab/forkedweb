@@ -2,10 +2,10 @@
 abstract: ''
 slides: null
 url_pdf: ""
-summary:  Nonprehensile manipulation through precise pushing is an essential skill that has been commonly challenged by perception and physical uncertainties.
-title: 'Nonprehensile Manipulation'
+summary:  Enabling multi-modal robot nonprehensile manipulation by concurrently building multiple motion trees and adaptively switching between them.
+title: 'Nonprehensile Manipulation through Forest-based Planning with Dynamic Planning Horizons'
 location: 
-date: 2022-10-24
+date: 2021-10-24
 all_day: false
 featured: false
 authors: [kejia-ren,admin]

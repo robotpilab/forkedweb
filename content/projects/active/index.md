@@ -2,8 +2,8 @@
 abstract: ''
 slides: null
 url_pdf: ""
-summary:  Major challenges include the difficulty of obtaining the geometric and dynamical models of the hand, object, and time-varying contacts. 
-title: 'Bnteractive perception'
+summary:  Improving the robot capability of object visual understanding by shifting the traditional robot perception paradigm from “wait-to-observe” to “seek-to-observe” through closing the loop between uncertainty-aware perception and robot exploratory manipulation.
+title: 'Interactive Object Perception'
 location: 
 all_day: false
 date: 2022-10-23

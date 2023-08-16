@@ -2,8 +2,8 @@
 abstract: ''
 slides: null
 url_pdf: ""
-summary:  Building hand-object models for dexterous inhand manipulation remains a crucial and open problem. Major challenges include the difficulty of obtaining the geometric and dynamical models of the hand. 
-title: 'Robot Self-Identification'
+summary:  Combining modern state estimation techniques with specialized adaptable robot hardware to enable online discovery and updating of manipulation “controllers” that require minimal sensing and are highly robust to uncertainty.
+title: 'Self-Identification for Robot Manipulation under Uncertainty Aided by Passive Adaptability'
 location: 
 date: 2021-10-14
 all_day: false
