@@ -2,7 +2,7 @@
 abstract: ''
 slides: null
 url_pdf: ""
-summary:  Improving the robot capability of object visual understanding by shifting the traditional robot perception paradigm from “wait-to-observe” to “seek-to-observe” through closing the loop between uncertainty-aware perception and robot exploratory manipulation.
+summary:  
 title: 'Interactive Object Perception'
 location: 
 all_day: false
@@ -24,6 +24,6 @@ image:
 url_code: ""
 ---
 <!--StartFragment-->
-
+Improving the robot capability of object visual understanding by shifting the traditional robot perception paradigm from “wait-to-observe” to “seek-to-observe” through closing the loop between uncertainty-aware perception and robot exploratory manipulation.
 
 <!--EndFragment-->
