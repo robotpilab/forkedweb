@@ -4,7 +4,10 @@ import os
 directory_path = os.getcwd()
 
 # 要搜索和删除的文本
-text_to_delete = 'featured.png'
+text_to_delete = '''{{% callout note %}}
+Click the _Cite_ button above to import publication metadata.
+{{% /callout %}}
+'''
 
 # 遍历所有子目录
 for root, dirs, files in os.walk(directory_path):
