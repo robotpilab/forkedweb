@@ -42,7 +42,8 @@ header:
 # Site footer
 
 footer:
-  share: false
+  share: 
+    enable: false
   copyright:
     license:
       enable: false
@@ -60,6 +61,8 @@ locale:
 # Site features
 
 features:
+  share: 
+    enable: false
   syntax_highlighter:
     enable: false
     extra_languages:
