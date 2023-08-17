@@ -33,7 +33,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-  filename: featured.png
+  filename: 
 summary: ""
 url_project: ""
 date: 2017-06-30T18:54:00.000Z

@@ -24,7 +24,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-  filename: featured.png
+  filename: 
 summary: ""
 url_project: ""
 publication: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)

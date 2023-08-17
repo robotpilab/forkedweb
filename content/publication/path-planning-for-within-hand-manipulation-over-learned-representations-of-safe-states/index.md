@@ -38,7 +38,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-  filename: featured.png
+  filename: 
 summary: ""
 url_project: ""
 url_video: 
