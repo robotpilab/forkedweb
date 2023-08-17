@@ -8,7 +8,7 @@ location:
 date: 2021-10-24
 all_day: false
 featured: false
-authors: [kejia-ren,admin]
+authors: [kejia-ren,gaotian-wang]
 url_video: ""
 url_slides: ""
 address:
