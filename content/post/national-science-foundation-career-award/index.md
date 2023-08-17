@@ -1,7 +1,6 @@
 ---
 title: National Science Foundation CAREER Award
 date: 2023-06-29T22:08:14.077Z
-authors:[""]
 image:
   filename: featured.png
 ---
