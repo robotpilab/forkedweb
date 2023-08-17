@@ -1,5 +1,5 @@
 ---
-title: Paper "Kinodynamic Rapidly-exploring Random Forest for
+title: Our Paper "Kinodynamic Rapidly-exploring Random Forest for
   Rearrangement-Based Nonprehensile Manipulation" accepted by IEEE-RAS ICRA
 date: 2020-12-02
 image:
