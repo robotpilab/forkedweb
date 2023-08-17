@@ -4,11 +4,11 @@ subtitle: ""
 publication_types:
   - "1"
 authors:
-  - K. Hang
-  - J. A. Haustein
-  - M. Li
-  - A. Billard
-  - C. Smith
+  - Kaiyu Hang
+  - Joshua A. Haustein
+  - Miao Li
+  - Aude Billard
+  - Christian Smith
   - Danica Kragic
 doi: ""
 publication: IEEE-RAS International Conference on Robotics and Automation (ICRA)
