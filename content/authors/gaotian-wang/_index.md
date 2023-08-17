@@ -26,11 +26,8 @@ education:
     - course: BSc in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2008
-superuser: true
+superuser: false
 user_groups:
   - Ph.D. students
-last_name: Bighetti
-highlight_name: false
-first_name: Nelson
 email: "gwang@rice.edu"
 ---
