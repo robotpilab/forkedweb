@@ -1,10 +1,11 @@
 ---
 title: Kaiyu Hang
+url: https://hangkaiyu.github.io/
 role: Assistant Professor of Department of Computer Science
 avatar_filename: profile2.png
 organizations:
   - name: Rice University
-    url: ""
+    url: "https://hangkaiyu.github.io/"
 superuser: false
 authors:
   - 吳恩達
