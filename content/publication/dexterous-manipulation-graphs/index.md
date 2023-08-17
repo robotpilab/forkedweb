@@ -32,9 +32,7 @@ featured: true
 tags: []
 date: 2018-06-30T18:37:00.000Z
 url_slides: ""
-links:
-  - name: Arxiv
-    url: https://hangkaiyu.github.io/pdfs/cruciani18a.pdf
+url_pdf: https://hangkaiyu.github.io/pdfs/cruciani18a.pdf
 publishDate: 2017-01-01T00:00:00.000Z
 ---
 
