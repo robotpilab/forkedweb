@@ -9,7 +9,7 @@ authors:
   - Walter G. Bircher
   - Andrew S. Morgan
   - and Aaron M. Dollar
-publication_short: IJRR
+publication_short: International Journal of Robotics Research (IJRR)
 abstract: We consider the problem of dexterous manipulation with a focus on
   unknown or uncertain hand-object parameters, such as hand configuration,
   object pose within the hand, and contact positions. In this work, we formulate

@@ -16,7 +16,7 @@ authors:
   - Nicholas Ruozzi
   - Yu Xiang
 publication: "Robotics: Science and Systems "
-publication_short: RSS
+publication_short: Robotics: Science and Systems (RSS)
 abstract: We introduce a novel robotic system for improving unseen object
   instance segmentation in the real world by leveraging long-term robot
   interaction with objects. Previous approaches either grasp or push an object
