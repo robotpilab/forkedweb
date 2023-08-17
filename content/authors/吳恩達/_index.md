@@ -39,7 +39,6 @@ user_groups:
   - Principal Investigator
 last_name: Wu
 first_name: Alice
----
- I am broadly interested in robotic systems that can physically interact with other robots, people, and the world. By developing algorithms in optimization, planning, learning, estimation, and control, my research is focused on efficient, robust, and generalizable manipulation systems, addressing problems that range from small scale grasping and in-hand manipulation, to large scale dual-arm manipulation, mobile manipulation, and multi-robot manipulation.
 
-Before joining Rice CS, I finished my postdoc at Yale University, completed my Ph.D./M.Sc. at KTH Royal Institute of Technology, and received my B.Eng. from Xi'an Jiaotong University.
+external_link: https://hangkaiyu.github.io/
+---
