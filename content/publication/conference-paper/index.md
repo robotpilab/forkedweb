@@ -54,8 +54,4 @@ image:
 publishDate: 2017-01-01T00:00:00.000Z
 ---
 
-{{% callout note %}}
-Click the _Cite_ button to import publication metadata.
-{{% /callout %}}
-
 Supplementary notes can be added here, including [code and math](https://arxiv.org/abs/2208.02312).
