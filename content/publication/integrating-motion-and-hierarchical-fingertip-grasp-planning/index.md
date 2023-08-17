@@ -34,9 +34,7 @@ url_project: ""
 date: 2017-06-30T18:55:00.000Z
 url_slides: ""
 tags: []
-links:
-  - name: PDF
-    url: https://hangkaiyu.github.io/pdfs/haustein2017a.pdf
+url_pdf: https://hangkaiyu.github.io/pdfs/haustein2017a.pdf
 publishDate: 2017-01-01T00:00:00.000Z
 ---
 

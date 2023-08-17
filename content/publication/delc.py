@@ -4,10 +4,12 @@ import os
 directory_path = os.getcwd()
 
 # 要搜索和删除的文本
-text_to_search = 'publication_short: IJRR'
+text_to_search = '''links:
+  - name: PDF
+    url:'''
 
 # 要替换的新文本
-text_to_replace_with = 'publication_short: International Journal of Robotics Research (IJRR)'  # 这里填入您想要替换的文本
+text_to_replace_with = 'url_pdf:'  # 这里填入您想要替换的文本
 
 # 遍历所有子目录
 for root, dirs, files in os.walk(directory_path):

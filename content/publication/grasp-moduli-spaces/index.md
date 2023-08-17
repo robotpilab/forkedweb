@@ -43,9 +43,7 @@ url_project: ""
 date: 2013-06-30T19:04:00.000Z
 url_slides: ""
 tags: []
-links:
-  - name: PDF
-    url: https://hangkaiyu.github.io/pdfs/pokorny2013b.pdf
+url_pdf: https://hangkaiyu.github.io/pdfs/pokorny2013b.pdf
 publishDate: 2017-01-01T00:00:00.000Z
 ---
 

@@ -35,9 +35,7 @@ url_project: ""
 date: 2014-06-30T19:00:00.000Z
 url_slides: ""
 tags: []
-links:
-  - name: PDF
-    url: https://hangkaiyu.github.io/pdfs/hang2014b.pdf
+url_pdf: https://hangkaiyu.github.io/pdfs/hang2014b.pdf
 publishDate: 2017-01-01T00:00:00.000Z
 ---
 
