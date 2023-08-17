@@ -42,7 +42,7 @@ header:
 # Site footer
 
 footer:
-  share: 
+  sharing: 
     enable: false
   copyright:
     license:
@@ -61,7 +61,7 @@ locale:
 # Site features
 
 features:
-  share: 
+  sharing: 
     enable: false
   syntax_highlighter:
     enable: false
