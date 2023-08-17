@@ -1,6 +1,6 @@
 ---
-title: Paper Non-Parametric Self-Identification and Model Predictive Control of
-  Dexterous In-Hand Manipulation has been accepted by IEEE/RSJ IROS
+title: Our Paper "Non-Parametric Self-Identification and Model Predictive Control of
+  Dexterous In-Hand Manipulation" has been accepted by IEEE/RSJ IROS
 date: 2023-06-21T22:10:07.833Z
 image:
   focal_point: top
