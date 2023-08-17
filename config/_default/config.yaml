@@ -78,6 +78,7 @@ cascade:
       path: /post/**
     share: false
     authors: false
+    author: false
   - _target:
       path: /projects/**
     share: false
