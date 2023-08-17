@@ -28,6 +28,7 @@ abstract: Rearranging objects on a tabletop surface by means of nonprehensile
   85%. We also show that our system can cope with sudden changes in the
   environment and compare our performance with human-level performance.
 featured: true
+url_pdf: https://arxiv.org/pdf/2302.04360.pdf
 projects:
   - Non-prehensile manipulation
 slides: null
