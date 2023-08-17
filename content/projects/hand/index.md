@@ -2,7 +2,7 @@
 abstract: ''
 slides: null
 url_pdf: ""
-summary:  Dexterous in-hand manipulation without lifting a finger using a class of novel compliant robot hands featured by active surfaces.
+summary:  
 title: 'Active Surface-based Compliant Robot Hands'
 location: 
 date: 2021-10-25
@@ -24,6 +24,6 @@ image:
 url_code: ""
 ---
 <!--StartFragment-->
-
+Dexterous in-hand manipulation without lifting a finger using a class of novel compliant robot hands featured by active surfaces.
 
 <!--EndFragment-->

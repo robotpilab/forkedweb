@@ -2,7 +2,7 @@
 abstract: ''
 slides: null
 url_pdf: ""
-summary:  Combining modern state estimation techniques with specialized adaptable robot hardware to enable online discovery and updating of manipulation “controllers” that require minimal sensing and are highly robust to uncertainty.
+summary:  
 title: 'Self-Identification for Robot Manipulation under Uncertainty Aided by Passive Adaptability'
 location: 
 date: 2021-10-14
@@ -24,6 +24,6 @@ image:
 url_code: ""
 ---
 <!--StartFragment-->
-
+Combining modern state estimation techniques with specialized adaptable robot hardware to enable online discovery and updating of manipulation “controllers” that require minimal sensing and are highly robust to uncertainty.
 
 <!--EndFragment-->
