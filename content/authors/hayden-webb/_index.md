@@ -1,6 +1,6 @@
 ---
 title: Hayden Webb
-role: Undergraduate student
+role: Undergraduate student in Mechanical Engineering
 avatar_filename: avatar.jpg
 social:
   - display:

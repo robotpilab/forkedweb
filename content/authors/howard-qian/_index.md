@@ -1,6 +1,6 @@
 ---
 title: Howard Qian
-role: Master student of CS department
+role: Undergraduate student of Computer Science
 avatar_filename: avatar.png
 social:
   - display:
