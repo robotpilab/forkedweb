@@ -1,9 +1,8 @@
 ---
 title: Gaotian Wang
-role: Graduate student of CS department
+role: Graduate student in Computer Science
 avatar_filename: gaotian-wang.png
-bio: My research interests include nonprehensile manipulation, Large Language
-  Models and Task-skill planning.
+bio: My research interests include nonprehensile manipulation, Large Language Models and Task-skill planning.
 
 social:
   - icon: envelope

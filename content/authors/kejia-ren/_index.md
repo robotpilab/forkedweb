@@ -1,6 +1,6 @@
 ---
 title: Kejia Ren
-role: Graduate student of CS department
+role: Graduate student in Computer Science
 avatar_filename: 1605121633692.jpg
 social:
   - display:
