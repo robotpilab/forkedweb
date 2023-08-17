@@ -25,6 +25,7 @@ abstract: We address the problem of generating force-closed point contact grasps
   hierarchy, the computational complexity, and the performance relative to a
   random sampling baseline approach.
 featured: true
+url_pdf: https://arxiv.org/pdf/2307.10033.pdf
 projects:
   - Non-prehensile manipulation
 slides: null
@@ -38,9 +39,7 @@ url_project: ""
 date: 2014-06-30T19:02:00.000Z
 url_slides: ""
 tags: []
-links:
-  - name: Arxiv
-    url: https://arxiv.org/abs/2302.04360
+
 publishDate: 2017-01-01T00:00:00.000Z
 ---
 
