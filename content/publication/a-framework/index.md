@@ -8,7 +8,7 @@ authors:
   - Johannes A. Stork
   - Nancy S. Pollard
   - Danica Kragic
-publication_short: RAL
+publication_short: IEEE Robotics and Automation Letters
 abstract: >-
   We consider the problem of finding optimal grasp contacts for arbitrary
   objects, based on a given grasp quality function. Our approach formulates a

@@ -24,7 +24,7 @@ authors:
   - Lydia E. Kavraki
   - Kaiyu Hang
 doi: ""
-publication_short: IEEE-RAS ICRA
+publication_short: IEEE-RAS International Conference on Robotics and Automation (ICRA)
 tags: []
 projects:
   - Non-prehensile manipulation

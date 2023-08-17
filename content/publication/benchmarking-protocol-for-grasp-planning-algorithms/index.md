@@ -13,7 +13,7 @@ authors:
   - Ravi Balasubramanian
   - Kaiyu Hang
   - Rustam Stolkin
-publication_short: RAL
+publication_short: IEEE Robotics and Automation Letters
 abstract: "Numerous grasp planning algorithms have been proposed since the
   1980s. The grasping literature has expanded rapidly in recent years, building
   on greatly improved vision systems and computing power. Methods have been
