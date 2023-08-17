@@ -9,7 +9,7 @@ authors:
   - Bowen Wen
   - Kostas Bekris
   - and Aaron M. Dollar
-publication_short: Science Robotics
+publication_short: IEEE Robotics and Automation Letters (RAL)
 abstract: This work presents a method for achieving complete SO(3) finger gating
   control of grasped objects against gravity, using a manipulation planner that
   operates via orthogonal safe modes of a compliant, underactuated hand absent
