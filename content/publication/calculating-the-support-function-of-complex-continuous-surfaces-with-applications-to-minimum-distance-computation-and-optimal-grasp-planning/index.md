@@ -7,7 +7,7 @@ publication_types:
 authors:
   - Yu Zheng
   - Kaiyu Hang
-publication_short: TRO
+publication_short: IEEE Transactions on Robotics (TRO)
 abstract: '"The support function of a surface" is a fundamental concept in
   mathematics and a crucial operation for algorithms in robotics, such as those
   for collision detection and grasp planning. It is possible to calculate the

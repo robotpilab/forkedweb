@@ -13,7 +13,7 @@ authors:
   - Florian T. Pokorny
   - Aude Billard
   - Danica Kragic
-publication_short: TRO
+publication_short: IEEE Transactions on Robotics (TRO)
 abstract: We present a unified framework for grasp planning and in-hand grasp
   adaptation using visual, tactile, and proprioceptive feedback. The main
   objective of the proposed framework is to enable fingertip grasping by

@@ -8,7 +8,7 @@ authors:
   - Kaiyu Hang
   - Andrew S. Morgan
   - Aaron M. Dollar
-publication_short: IEEE Robotics and Automation Letters
+publication_short: IEEE Robotics and Automation Letters (RAL)
 abstract: We address the problem of pre-grasp sliding manipulation, which is an
   essential skill when a thin object cannot be directly grasped from a flat
   surface. Leveraging the passive reconfigurability of soft, compliant, or

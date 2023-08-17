@@ -7,7 +7,7 @@ authors:
   - Haoran Song
   - Michael Yu Wang
   - Kaiyu Hang
-publication_short: IEEE Robotics and Automation Letters
+publication_short: IEEE Robotics and Automation Letters (RAL)
 abstract: We address the problem of designing fingertips by leveraging the fact
   that most grasp contacts share a few classes of local geometries. In order to
   maximize the contact areas and achieve more robust grasps, we first define the

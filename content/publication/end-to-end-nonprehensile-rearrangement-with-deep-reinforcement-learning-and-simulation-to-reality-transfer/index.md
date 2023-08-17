@@ -10,7 +10,7 @@ authors:
   - Danica Kragic
   - Michael Y. Wang
   - Johannes A. Stork
-publication_short: RAS
+publication_short: Robotics and Autonomous Systems (RAS)
 abstract: Nonprehensile rearrangement is the problem of controlling a robot to
   interact with objects through pushing actions in order to reconfigure the
   objects into a predefined goal pose. In this work, we rearrange one object at

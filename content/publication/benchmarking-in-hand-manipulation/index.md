@@ -10,7 +10,7 @@ authors:
   - Vikash Kumar
   - Tucker Hermans
   - Danica Kragic
-publication_short: IEEE Robotics and Automation Letters
+publication_short: IEEE Robotics and Automation Letters (RAL)
 abstract: The purpose of this benchmark is to evaluate the planning and control
   aspects of robotic in-hand manipulation systems. The goal is to assess the
   system's ability to change the position of a handheld object using the

@@ -9,7 +9,7 @@ authors:
   - Kaiyu Hang
   - Danica Kragic
   - Aude Billarda
-publication_short: RAS
+publication_short: Robotics and Autonomous Systems (RAS)
 abstract: An important challenge in robotics is achieving robust performance in
   object grasping and manipulation while dealing with noise and uncertainty.
   This paper presents an approach for addressing the performance of dexterous

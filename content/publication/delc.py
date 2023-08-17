@@ -4,10 +4,10 @@ import os
 directory_path = os.getcwd()
 
 # 要搜索和删除的文本
-text_to_search = 'publication_short: RAL'
+text_to_search = 'publication_short: RAS'
 
 # 要替换的新文本
-text_to_replace_with = 'publication_short: IEEE Robotics and Automation Letters'  # 这里填入您想要替换的文本
+text_to_replace_with = 'publication_short: Robotics and Autonomous Systems (RAS)'  # 这里填入您想要替换的文本
 
 # 遍历所有子目录
 for root, dirs, files in os.walk(directory_path):
