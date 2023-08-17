@@ -20,27 +20,12 @@ sections:
       coordinates:
         latitude: '29.72045'
         longitude: '-95.3986'
-      directions: Enter Building 1 and take the left to Office 200 on Ground Floor
+      
       office_hours:
         - 'Monday to Friday 9:00 to 18:00'
-      appointment_url: 'https://calendly.com'
-      #contact_links:
-      #  - icon: comments
-      #    icon_pack: fas
-      #    name: Discuss on Forum
-      #    link: 'https://discourse.gohugo.io'
+
     
-      # Automatically link email and phone or display as text?
-      autolink: true
-    
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+      
     design:
       columns: '1'
 
