@@ -9,6 +9,9 @@ social:
     link: mailto:hhq1@rice.edu
     icon: envelope
 superuser: false
+organizations:
+  - name: Rice University
+    url: ""
 user_groups:
   - Master and Undergraduate Students
 ---

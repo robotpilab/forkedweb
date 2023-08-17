@@ -10,6 +10,9 @@ social:
     label: Mail
     icon: envelope
 superuser: false
+organizations:
+  - name: Rice University
+    url: ""
 user_groups:
   - Ph.D. students
 ---

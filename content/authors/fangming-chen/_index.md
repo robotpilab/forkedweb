@@ -11,6 +11,9 @@ social:
     link: mailto:fc31@rice.edu
     icon_pack: fas
     icon: envelope
+organizations:
+  - name: Rice University
+    url: ""
 superuser: false
 user_groups:
   - Master and Undergraduate Students

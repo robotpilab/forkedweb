@@ -9,6 +9,9 @@ social:
     icon_pack: fas
     icon: envelope
 superuser: false
+organizations:
+  - name: Rice University
+    url: ""
 user_groups:
   - Master and Undergraduate Students
 ---
