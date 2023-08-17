@@ -13,5 +13,5 @@ social:
     icon: envelope
 superuser: false
 user_groups:
-  - Masters and undergraduates
+  - Master and Undergraduate Students
 ---

@@ -36,7 +36,7 @@ education:
       year: 2008
 email: ""
 user_groups:
-  - Principal Investigators
+  - Principal Investigator
 last_name: Wu
 first_name: Alice
 ---
