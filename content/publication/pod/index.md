@@ -1,18 +1,6 @@
 ---
 title: Non-Parametric Self-Identification and Model Predictive Control of Dexterous In-Hand Manipulation
-abstract: Rearrangement-based nonprehensile manipulation still remains as a
-  challenging problem due to the high-dimensional problem space and the complex
-  physical uncertainties it entails. We formulate this class of problems as a
-  coupled problem of local rearrangement and global action optimization by
-  incorporating free-space transit motions between constrained rearranging
-  actions. We propose a forest-based kinodynamic planning framework to
-  concurrently search in multiple problem regions, so as to enable global
-  exploration of the most task-relevant subspaces, while facilitating effective
-  switches between local rearranging actions. By interleaving dynamic horizon
-  planning and action execution, our framework can adaptively handle real-world
-  uncertainties. With extensive experiments, we show that our framework
-  significantly improves the planning efficiency and manipulation effectiveness
-  while being robust against various uncertainties.
+abstract: Building hand-object models for dexterous in-hand manipulation remains a crucial and open problem. Major challenges include the difficulty of obtaining the geometric and dynamic models of the hand, object, and time-varying contacts, as well as the inevitable physical and perceptual uncertainties. Instead of building accurate models to map between the actuation inputs and the object motions, this work proposes enabling the hand-object systems to continuously approximate their local models via a self-identification process where an underlying manipulation model is estimated through a small number of exploratory actions and non-parametric learning. With a very small number of data points, as opposed to most data-driven methods, our system self-identifies the underlying manipulation models online through exploratory actions and non-parametric learning. By integrating the self-identified hand-object model into a model predictive control framework, the proposed system closes the control loop to provide high accuracy in-hand manipulation. Furthermore, the proposed self-identification can adaptively trigger online updates through additional exploratory actions as soon as the self-identified local models render large discrepancies against the observed manipulation outcomes. We implemented the proposed approach on a sensorless underactuated Yale Model O hand with a single external camera to observe the object's motion. With extensive experiments, we show that the proposed self-identification approach can enable accurate and robust dexterous manipulation without requiring an accurate system model or a large amount of data for offline training.
 slides: null
 url_pdf: https://arxiv.org/pdf/2307.10033.pdf
 publication_types:
@@ -28,14 +16,7 @@ publication_short: IEEE-RAS International Conference on Robotics and Automation 
 tags: []
 projects:
   - Non-prehensile manipulation
-summary: Our approach combines local rearrangement and global action
-  optimization for nonprehensile manipulation, with free-space transit motions
-  between constrained rearranging actions. We use a kinodynamic planning
-  framework to search in multiple regions, allowing for global exploration of
-  relevant subspaces and effective switches between local actions. The framework
-  can adapt to real-world uncertainties and improves efficiency and
-  effectiveness while remaining robust against uncertainties, as shown by
-  extensive experiments.
+summary: Building hand-object models for dexterous in-hand manipulation remains a crucial and open problem. Major challenges include the difficulty of obtaining the geometric and dynamic models of the hand, object, and time-varying contacts, as well as the inevitable physical and perceptual uncertainties. Instead of building accurate models to map between the actuation inputs and the object motions, this work proposes enabling the hand-object systems to continuously approximate their local models via a self-identification process where an underlying manipulation model is estimated through a small number of exploratory actions and non-parametric learning. With a very small number of data points, as opposed to most data-driven methods, our system self-identifies the underlying manipulation models online through exploratory actions and non-parametric learning. By integrating the self-identified hand-object model into a model predictive control framework, the proposed system closes the control loop to provide high accuracy in-hand manipulation. Furthermore, the proposed self-identification can adaptively trigger online updates through additional exploratory actions as soon as the self-identified local models render large discrepancies against the observed manipulation outcomes. We implemented the proposed approach on a sensorless underactuated Yale Model O hand with a single external camera to observe the object's motion. With extensive experiments, we show that the proposed self-identification approach can enable accurate and robust dexterous manipulation without requiring an accurate system model or a large amount of data for offline training.
 url_project: ""
 url_video: https://youtu.be/4FQ2193q1kk
 publication: IEEE-RAS International Conference on Robotics and Automation
