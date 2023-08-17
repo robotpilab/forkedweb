@@ -42,6 +42,7 @@ header:
 # Site footer
 
 footer:
+  share: false
   copyright:
     license:
       enable: false
