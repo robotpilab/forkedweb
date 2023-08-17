@@ -1,6 +1,6 @@
 ---
 title: Podshara Chanrungmaneekul
-role: Graduate student of CS department
+role: Graduate student in Computer Science
 avatar_filename: avatar.jpg
 social:
   - display:
