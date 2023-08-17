@@ -74,3 +74,6 @@ cascade:
   - _target:
       path: /publication/**
     share: false
+  - _target:
+      path: /post/**
+    share: false
