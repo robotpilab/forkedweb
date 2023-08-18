@@ -9,7 +9,7 @@ sections:
     content:
       title: Contact
       text: 
-      email: kaiyu.hang@rice.edu
+      email: kaiyu(_dot_)hang(_at_)rice(_dot_)edu
       address:
         street: 6100 Main Street
         city: Houston
@@ -19,12 +19,7 @@ sections:
         country_code: US
       coordinates:
         latitude: '29.72045'
-        longitude: '-95.3986'
-      
-      office_hours:
-        - 'Monday to Friday 9:00 to 18:00'
-
-    
+        longitude: '-95.3986'      
       
     design:
       columns: '1'

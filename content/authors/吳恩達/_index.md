@@ -17,7 +17,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:kaiyu.hang@rice.edu
+    link: mailto:kaiyu(_dot_)hang(_at_)rice(_dot_)edu
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.se/citations?user=GrgH1lQAAAAJ&hl=en
