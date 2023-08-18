@@ -5,7 +5,7 @@ subtitle: Selected for oral presentation at IEEE-RAS International Conference on
 publication_types:
   - "2"
 authors:
-  - Miao Lia
+  - Miao Li
   - Kaiyu Hang
   - Danica Kragic
   - Aude Billarda
