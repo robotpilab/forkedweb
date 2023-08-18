@@ -29,7 +29,7 @@ authors:
   - Andrew Kimmel
   - Kaiyu Hang
   - Kostas Bekris
-  - and Aaron Dollar
+  - and Aaron M. Dollar
 doi: ""
 publication_short: International Symposium on Experimental Robotics (ISER)
 projects:

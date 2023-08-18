@@ -9,7 +9,7 @@ authors:
   - Anastasiia Varava
   - Oleksandr Kravchenko
   - Danica Kragic
-  - Michael Yu Wang
+  - Michael Y. Wang
   - Florian T. Pokorny
   - Kaiyu Hang
 publication_short: Autonomous Robots

@@ -5,7 +5,7 @@ publication_types:
   - "2"
 authors:
   - Haoran Song
-  - Michael Yu Wang
+  - Michael Y. Wang
   - Kaiyu Hang
 publication_short: IEEE Robotics and Automation Letters (RAL)
 abstract: We address the problem of designing fingertips by leveraging the fact

@@ -19,7 +19,7 @@ publication_types:
 authors:
   - Joshua A. Haustein
   - Kaiyu Hang
-  - Johannes Stork
+  - Johannes A. Stork
   - Danica Kragic
 doi: ""
 publication_short: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)

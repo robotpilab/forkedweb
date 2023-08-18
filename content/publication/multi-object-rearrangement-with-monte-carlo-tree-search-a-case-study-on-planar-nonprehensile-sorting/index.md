@@ -18,7 +18,7 @@ authors:
   - Joshua A. Haustein
   - Weihao Yuan
   - Kaiyu Hang
-  - Michael Yu Wang
+  - Michael Y. Wang
   - Danica Kragic
   - Johannes A. Stork
 doi: ""

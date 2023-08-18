@@ -8,7 +8,7 @@ authors:
   - Miao Li
   - Kaiyu Hang
   - Danica Kragic
-  - Aude Billarda
+  - Aude Billard
 publication_short: Robotics and Autonomous Systems (RAS)
 abstract: An important challenge in robotics is achieving robust performance in
   object grasping and manipulation while dealing with noise and uncertainty.

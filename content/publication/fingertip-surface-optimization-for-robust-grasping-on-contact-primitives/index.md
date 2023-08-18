@@ -5,7 +5,7 @@ publication_types:
   - "1"
 authors:
   - Haoran Song
-  - Michael Yu Wang
+  - Michael Y. Wang
   - Kaiyu Hang
 doi: ""
 publication: IEEE-RAS International Conference on Robotics and Automation (ICRA)

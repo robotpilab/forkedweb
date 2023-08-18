@@ -5,7 +5,7 @@ subtitle: ""
 publication_types:
   - "2"
 authors:
-  - Weihao Yuana
+  - Weihao Yuan
   - Kaiyu Hang
   - Danica Kragic
   - Michael Y. Wang
