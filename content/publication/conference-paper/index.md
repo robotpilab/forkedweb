@@ -1,6 +1,5 @@
 ---
-title: Rearrangement-Based Manipulation via Kinodynamic Planning and Dynamic
-  Planning Horizons
+title: Rearrangement-Based Manipulation via Kinodynamic Planning and Dynamic Planning Horizons
 abstract: "Robot manipulation in cluttered environments often requires complex
   and sequential rearrangement of multiple objects in order to achieve the
   desired reconfiguration of the target objects. Due to the sophisticated
