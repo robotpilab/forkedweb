@@ -7,7 +7,7 @@ authors:
   - Andrew S. Morgan
   - Kaiyu Hang
   - Aaron M. Dollar
-publication_short: Autonomous Robots
+publication_short: IEEE Robotics and Automation Letters (RAL)
 abstract: We address the problem of controlling a partially constrained
   trajectory of the manipulation frame - an arbitrary frame of reference rigidly
   attached to the object - as the desired motion about this frame is often
