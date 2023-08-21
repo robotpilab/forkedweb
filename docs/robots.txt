@@ -1,3 +1,0 @@
-User-agent: *
-
-Sitemap: https://vector-wangel.github.io/wowchemy_website/sitemap.xml
